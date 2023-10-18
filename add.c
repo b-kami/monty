@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 /**
  * f_add - adds top two elements of the stack.
  * @head: The stack head.
